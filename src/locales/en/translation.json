@@ -1,0 +1,12 @@
+{
+  "welcome": "Welcome to Medical Hub",
+  "login": "Login",
+  "register": "Register",
+  "dashboard": "Dashboard",
+  "logout": "Logout",
+  "email": "Email",
+  "password": "Password",
+  "language": "Language",
+  "english": "English",
+  "arabic": "Arabic"
+} 
